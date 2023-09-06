@@ -1431,8 +1431,8 @@
         }
     ],
     "c_activations_count": 1,
-    "date_time": "Tue Sep  5 13:52:26 2023",
-    "model_name": "digcont_0600_s3",
+    "date_time": "Tue Sep  5 13:40:52 2023",
+    "model_name": "digcont_0610_s3",
     "tool_version": {
         "major": 1,
         "minor": 7,
@@ -1617,7 +1617,7 @@
         "minor": 5,
         "micro": 0
     },
-    "model_signature": "bafef44858ba2469967e55213ca47eb7",
+    "model_signature": "bc6c2bb66e1e747fa982256c1eb43697",
     "params_alignment": 4,
     "activations": {"heap_overlay_pool": {
         "buffer_data_size": 0,
